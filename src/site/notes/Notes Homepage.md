@@ -10,3 +10,4 @@
 - [[Quests/Quests\|Quests]]
 - [[Gruppen Inventar\|Gruppen Inventar]]
 - [[Quest Loot\|Quest Loot]]
+- [[Creatures & Monsters/Creatures&Monsters\|Creatures&Monsters]]
