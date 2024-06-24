@@ -3,7 +3,6 @@
 ---
 
 
-
 Paladin (Oath of Conquest)
 Dwarf
 250 Years

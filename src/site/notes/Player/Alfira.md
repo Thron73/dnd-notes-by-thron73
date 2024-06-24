@@ -3,8 +3,6 @@
 ---
 
 
-
-
 Bard
 Half-Elf
 20 Years

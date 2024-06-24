@@ -3,8 +3,6 @@
 ---
 
 
-
-
 Sorcerer
 Half-Elf
 32 Years

@@ -5,6 +5,6 @@
 
 
 
-- [[Friendly Groups/Hafner/Hafner\|Hafner]]
+- [[Friendly Groups/Harfner/Harfner\|Harfner]]
 - [[Friendly Groups/Paldine von Torm\|Paldine von Torm]]
 - 
