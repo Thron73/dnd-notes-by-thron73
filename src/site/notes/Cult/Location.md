@@ -5,4 +5,5 @@
 
 
 
-- Südlich von Greenest
+- Südlich von Greenest = Verlassen!
+- 
